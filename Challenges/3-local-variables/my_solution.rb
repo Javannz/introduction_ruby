@@ -1,5 +1,12 @@
 # Tu solución aquí
+num1 = 10
+num2 = 5
 
+sum = num1 + num2
+difference = num1 - num2
+quotient = num1.to_f / num2.to_f   #Eso se hace con ese metodo to_F
+product = num1 * num2
+modulus = num1 % num2 #EL MODULO EN RUBY SE CALCULA CON EL SIGNO %
 
 # Pruebas NO LAS BORRES
 
